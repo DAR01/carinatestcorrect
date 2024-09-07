@@ -13,4 +13,9 @@ public class BaseTest {
     public void lisaTestOne(){
 
     }
+
+    @Test
+    public void lisaTestThree(){
+
+    }
 }
